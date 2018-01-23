@@ -1,0 +1,34 @@
+{
+  "name": "browser-sync-jekyll",
+  "version": "0.0.0",
+  "description": "A starter project including full setup for Jekyll, Pug, GulpJS, SASS & BrowserSync",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vijay Kolar",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.12.10",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.1",
+    "pug": "^2.0.0-alpha8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vijaykolar/jekyll-starter-kit"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync",
+    "Pug"
+  ],
+  "bugs": {
+    "url": "https://github.com/vijaykolar/jekyll-starter-kit/issues"
+  },
+  "homepage": "https://github.com/vijaykolar/jekyll-starter-kit"
+}
